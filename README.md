@@ -1,4 +1,4 @@
-# movie-recommendation
+# Movie Recommendation System
 
 Movie Recommendation Web App
 
