@@ -7,7 +7,7 @@ Overview
 This is a content based movie recommendation web application hosted on Heroku. Just enter one movie name then it will recommend 25 movies.
 Demo
 
-    Link: https://movie-recommend-ht.herokuapp.com//
+   Link: https://movie-recommend-ht.herokuapp.com//
 
 Dataset used
 
