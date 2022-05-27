@@ -51,5 +51,12 @@ Technology used
 
     streamlit
     heroku
+    
+ Screenshots
+ 
+ 
+  ![Screenshot 2022-05-27 at 09-40-01 app · Streamlit](https://user-images.githubusercontent.com/75297245/170675869-0cca61ba-238f-49cb-a359-b77f9bab96a6.png)
   
-  
+  ![Screenshot 2022-05-27 at 09-40-24 app · Streamlit](https://user-images.githubusercontent.com/75297245/170675927-a4a0dee9-f678-439c-b589-3dce417fac59.png)
+
+
