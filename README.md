@@ -44,3 +44,9 @@ Tool used
 
 Language used
   Python
+  
+Technology used
+  streamlit
+  heroku
+  
+  
